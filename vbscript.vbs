@@ -1,0 +1,1 @@
+document.write("hello world. from VBScript. ie support")
